@@ -1,0 +1,27 @@
+.name{
+    color: brown;
+    size: 100rem;
+}
+.side-bar{
+    background-color: aquamarine;
+    border-radius: 1rem;
+}
+.content-container{
+    background-color: blanchedalmond;
+    border-radius: 1rem;
+}
+img{
+    height: 13rem;
+    width: 13rem;
+
+}
+.imgg{
+    border: solid black;
+    border-radius: 3px;
+    height: 13rem;
+    width: 13rem;
+    position: absolute;
+    right: 5rem;
+    top: 5rem;
+
+}
